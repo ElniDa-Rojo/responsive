@@ -1,0 +1,6 @@
+LISTADO DE REQUERIMIENTO
+
+Llamada con el cliente del 19 de octubre de 2029
+-Corregir desboirde en la pagina de inicio.
+-Cambiar fondo a color oscuro.
+-Aumentar tamaño de la fuente.
